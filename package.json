@@ -1,0 +1,23 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fongvang09/README-Generator.git"
+  },
+  "author": "Fong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fongvang09/README-Generator/issues"
+  },
+  "homepage": "https://github.com/fongvang09/README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "util": "^0.12.3"
+  }
+}
