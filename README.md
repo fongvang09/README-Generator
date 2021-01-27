@@ -15,5 +15,5 @@ To create a command-line application that dynamically generates a professional R
 ## Links
 
 Deployed Link: https://fongvang09.github.io/README-Generator/
-GitHub Link: 
+GitHub Link: https://github.com/fongvang09/README-Generator/settings
 Screencastify Link: 
